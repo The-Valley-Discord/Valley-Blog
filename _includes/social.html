@@ -9,6 +9,10 @@
       >[Dribbble]</a
     >
   </li>
+  {%- endif -%} {%- if social.discord -%}
+  <li>
+    <a class="black-link" href="{{ social.discord }}">[Discord]</a>
+  </li>
   {%- endif -%} {%- if social.facebook -%}
   <li>
     <a
@@ -127,7 +131,7 @@
   <li>
     <a
       class="black-link"
-      href="https://reddit.com/user/{{ social.reddit | cgi_escape | escape }}"
+      href="https://reddit.com/{{ social.reddit | cgi_escape | escape }}"
     >
       [Reddit]
     </a>

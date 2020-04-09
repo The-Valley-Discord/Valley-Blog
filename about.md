@@ -1,10 +1,8 @@
 ---
 layout: about
+permalink: /about/
 ---
 
-These are controlled by `about.md` under the root directory. If you want a more diverse self-introduction, you can insert the markdown content you want here.
+Hello! We are the Valley Discord Server Mod Team!
 
-### What's New
-
-- One paper got accepted in xxx 2019.
-- I'm going to join xxx as a xxx 2019 Fall.
+We plan to put introductions from all our mods on here at some point but for now just enjoy this blank page.
