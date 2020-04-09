@@ -33,14 +33,6 @@
       >[Flickr]</a
     >
   </li>
-  {%- endif -%} {%- if social.github -%}
-  <li>
-    <a
-      class="black-link"
-      href="https://github.com/{{ social.github | cgi_escape | escape }}"
-    > [Github]</a
-    >
-  </li>
   {%- endif -%} {%- if social.instagram -%}
   <li>
     <a
@@ -127,14 +119,13 @@
       >[Microdotblog]</a
     >
   </li>
-  {%- endif -%} {%- if social.reddit -%}
+  {%- endif -%} {%- if social.github -%}
   <li>
     <a
       class="black-link"
-      href="https://reddit.com/{{ social.reddit | cgi_escape | escape }}"
+      href="https://github.com/{{ social.github | cgi_escape | escape }}"
+    > [Github]</a
     >
-      [Reddit]
-    </a>
   </li>
   {%- endif -%} {%- if social.rss -%}
   <li>
