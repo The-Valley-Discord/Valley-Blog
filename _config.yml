@@ -1,6 +1,7 @@
 title: Valley Blog
 author: The Valley Mod Team
 # email:
+discord: egg-irl
 url: https://the-valley-discord.github.io/
 description: >
   The Official Valley Discord Blog
@@ -20,10 +21,10 @@ moving:
   social_links:
     # twitter:
     github: The-Valley-Discord
-    discord: discord.gg/egg-irl
+    discord: egg-irl
     rss: RSS
     # dribbble:
-    # facebook: 
+    # facebook:
     # flickr:
     # instagram:
     # linkedin:

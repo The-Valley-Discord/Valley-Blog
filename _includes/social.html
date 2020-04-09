@@ -11,7 +11,7 @@
   </li>
   {%- endif -%} {%- if social.discord -%}
   <li>
-    <a class="black-link" href="{{ social.discord }}">[Discord]</a>
+    <a class="black-link" href="https://discord.gg/{{ social.discord | cgi_escape | escape }}">[Discord]</a>
   </li>
   {%- endif -%} {%- if social.facebook -%}
   <li>
