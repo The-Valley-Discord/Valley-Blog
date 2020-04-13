@@ -25,7 +25,7 @@ moving:
     github: The-Valley-Discord
     discord: egg-irl
     rss: RSS
-    reddit: "/r/egg-irl"
+    reddit: r/egg-irl
 remote_theme: huangyz0918/moving
 plugins:
 - jekyll-feed
