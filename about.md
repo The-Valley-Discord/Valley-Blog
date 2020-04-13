@@ -1,6 +1,6 @@
 ---
+permalink: "/about/"
 layout: about
-permalink: /about/
 ---
 
 # About Valley
