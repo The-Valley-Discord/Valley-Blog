@@ -6,6 +6,7 @@ categories:
 tags:
 - welcome
 - hello
+author: Mod Team
 ---
 
 For now, this blog is mostly going to be from the Valley development team and will talk about the bots and technologies we employ to help us run the server.
